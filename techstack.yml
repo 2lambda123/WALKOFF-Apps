@@ -1,0 +1,1285 @@
+repo_name: 2lambda123/WALKOFF-Apps
+report_id: 553e5c83a051840adda06408e2de149e
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-09T07:59:56+00:00'
+requested_by: iadgovuser11
+provider: github
+branch: master
+detected_tools_count: 95
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps
+  detection_source: Repo Metadata
+- name: ES6
+  description: The next version of JavaScript
+  website_url: http://www.ecma-international.org/ecma-262/6.0/
+  version: 6.6.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4109/16407404782_8b9c57eab3.jpg
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/jquery/package.json
+  detection_source: demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/jquery/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-01 16:04:29.000000000 Z
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/package.json
+  detection_source: demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-01 16:04:29.000000000 Z
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/jquery/package.json
+  detection_source: demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/jquery/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-01 16:04:29.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/jquery/package.json
+  detection_source: demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/jquery/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-01 16:04:29.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps
+  detection_source: Repo Metadata
+- name: Grunt
+  description: The JavaScript Task Runner
+  website_url: http://gruntjs.com/
+  version: 1.0.1
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/845/falgg2jybmhgk16y62lr.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-01 16:04:29.000000000 Z
+- name: Logstash
+  description: Collect, Parse, &amp; Enrich Data
+  website_url: http://logstash.net/
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Log Management
+  image_url: https://img.stackshare.io/service/1683/preview.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/Elasticsearch/requirements.txt
+  detection_source: Elasticsearch/requirements.txt
+  last_updated_by: JustinTervala
+  last_updated_on: 2018-04-23 15:53:10.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/package.json
+  detection_source: demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-01 16:04:29.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/Splunk/requirements.txt
+  detection_source: Splunk/requirements.txt
+  last_updated_by: iadgovuser11
+  last_updated_on: 2017-07-12 16:03:33.000000000 Z
+- name: QUnit
+  description: A JavaScript Unit Testing framework
+  website_url: http://qunitjs.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1421/b706f022230831a3d391db504a139e21.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/jquery/package.json
+  detection_source: demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/jquery/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-01 16:04:29.000000000 Z
+- name: RequireJS
+  description: JavaScript file and module loader
+  website_url: http://requirejs.org/
+  version: 2.2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/852/1781835.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/jquery/package.json
+  detection_source: demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/jquery/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-01 16:04:29.000000000 Z
+- name: SinonJS
+  description: Standalone test spies, stubs and mocks for JavaScript
+  website_url: http://sinonjs.org/
+  version: 1.17.3
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/3509/logo.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/jquery/package.json
+  detection_source: demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/jquery/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-01 16:04:29.000000000 Z
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/AlienVault/signature-base/.travis.yml
+  detection_source: AlienVault/signature-base/.travis.yml
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-14 12:49:02.000000000 Z
+- name: gevent
+  description: Coroutine network library for Python
+  website_url: http://gevent.org
+  open_source: false
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Web Servers
+  image_url: https://img.stackshare.io/service/1772/s9Bm2Iyx_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/CyberAnalytic/requirements.txt
+  detection_source: CyberAnalytic/requirements.txt
+  last_updated_by: iadgovuser11
+  last_updated_on: 2017-07-12 16:03:33.000000000 Z
+- name: jsdom
+  description: A JavaScript implementation of the WHATWG DOM and HTML standards, for
+    use with node.js
+  website_url: https://github.com/jsdom/jsdom
+  version: 5.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Headless Browsers
+  image_url: https://img.stackshare.io/service/7054/preview.jpeg
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/jquery/package.json
+  detection_source: demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/jquery/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-01 16:04:29.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_netmap_interface/interfaces/Bro/interface/static/lib/d3v4/package.json
+  detection_source: demo_packages/bro_netmap_interface/interfaces/Bro/interface/static/lib/d3v4/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-13 21:47:44.000000000 Z
+- name: rollup
+  description: The next-generation JavaScript module bundler
+  website_url: http://rollupjs.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_netmap_interface/interfaces/Bro/interface/static/lib/d3v4/package.json
+  detection_source: demo_packages/bro_netmap_interface/interfaces/Bro/interface/static/lib/d3v4/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-13 21:47:44.000000000 Z
+- name: Pillow
+  description: Python Imaging Library
+  website_url: https://python-pillow.github.io/
+  open_source: true
+  hosted_saas: false
+  category: Assets and Media
+  sub_category: Image Processing and Management
+  image_url: https://img.stackshare.io/service/2375/default_1f67b0ca7416a9f52beb655f90b5602d5ef74b75.jpg
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/Converter/requirements.txt
+  detection_source: Converter/requirements.txt
+  last_updated_by: Joseph Moyer
+  last_updated_on: 2019-01-22 19:06:52.000000000 Z
+- name: Elasticsearch
+  description: Open Source, Distributed, RESTful Search Engine
+  website_url: https://www.elastic.co/products/elasticsearch
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Search as a Service
+  image_url: https://img.stackshare.io/service/841/Image_2019-05-20_at_4.58.04_PM.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/Elasticsearch/requirements.txt
+  detection_source: Elasticsearch/requirements.txt
+  last_updated_by: JustinTervala
+  last_updated_on: 2018-04-23 15:53:10.000000000 Z
+- name: Insight
+  description: Dashboard and analytics for teams using Pivotal Tracker.
+  website_url: https://www.in-sight.io
+  open_source: false
+  hosted_saas: false
+  category: Collaboration
+  sub_category: Agile Project Management
+  image_url: https://img.stackshare.io/service/1511/u4rarRMd.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/jquery/package.json
+  detection_source: demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/jquery/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-01 16:04:29.000000000 Z
+- name: PowerShell
+  description: A task automation and configuration management framework
+  website_url: https://docs.microsoft.com/en-us/powershell/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3681/powershell-logo.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps
+  detection_source: Repo Metadata
+- name: Q
+  description: A promise library for JavaScript
+  website_url: https://github.com/kriskowal/q
+  version: 1.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/4697/default_2d5a1d7c5eb520cdeb7db120e767345004a1d0d4.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/jquery/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-01 16:04:29.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps
+  detection_source: Repo Metadata
+- name: Tape
+  description: 'i''m the package manager for javascript. problems? try @npm_support
+    and #npm on freenode.'
+  website_url: https://www.npmjs.com/package/tape
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/3722/lejvzrnlpb308aftn31u_normal.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_netmap_interface/interfaces/Bro/interface/static/lib/d3v4/package.json
+  detection_source: demo_packages/bro_netmap_interface/interfaces/Bro/interface/static/lib/d3v4/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-13 21:47:44.000000000 Z
+- name: husky
+  website_url: https://github.com/typicode/husky
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/jquery/package.json
+  detection_source: demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/jquery/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-01 16:04:29.000000000 Z
+- name: pygame
+  description: Open Source python programming language library for making multimedia
+    applications
+  website_url: https://www.pygame.org/news
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Cross-Platform Desktop Development
+  image_url: https://img.stackshare.io/service/6512/default_1e1ae07154b9f359c410f3f24ba3c96c1be21cdf.jpg
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/Webcam/requirements.txt
+  detection_source: Webcam/requirements.txt
+  last_updated_by: iadgovuser11
+  last_updated_on: 2017-07-12 16:03:33.000000000 Z
+- name: solidity
+  description: How people build software
+  website_url: https://ethereum.github.io/solidity/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/4959/1__IS8pZzkhvd6kUbSFpSgag.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps
+  detection_source: Repo Metadata
+- name: web3
+  website_url: https://github.com/ethereum/web3.js/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8418/no-img-open-source.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/EthereumBlockchain/package.json
+  detection_source: EthereumBlockchain/package.json
+  last_updated_by: iadgovuser11
+  last_updated_on: 2017-05-17 10:19:29.000000000 Z
+- name: btoa
+  description: Btoa for Node.JS
+  package_url: https://www.npmjs.com/btoa
+  version: 1.1.2
+  license: MIT,Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17351/default_b8b4be8bd54f9619446b80b2bf448c0891101f2a.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-01 16:04:29.000000000 Z
+- name: core-js
+  description: Standard library
+  package_url: https://www.npmjs.com/core-js
+  version: 2.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15869/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/jquery/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-01 16:04:29.000000000 Z
+- name: cross-spawn
+  description: Cross platform child_process#spawn and child_process#spawnSync
+  package_url: https://www.npmjs.com/cross-spawn
+  version: 2.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16069/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/jquery/package.json
+  detection_source: demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/jquery/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-01 16:04:29.000000000 Z
+- name: d3-array
+  description: Array manipulation, ordering, searching, summarizing, etc
+  package_url: https://www.npmjs.com/d3-array
+  version: 1.2.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17322/default_2f1b682e838d69744876821bf705f0b2974318b1.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_netmap_interface/interfaces/Bro/interface/static/lib/d3v4/package.json
+  detection_source: demo_packages/bro_netmap_interface/interfaces/Bro/interface/static/lib/d3v4/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-13 21:47:44.000000000 Z
+- name: d3-format
+  description: Format numbers for human consumption
+  package_url: https://www.npmjs.com/d3-format
+  version: 1.2.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18327/default_b0d06180669cf53f2469ea77b53b5911d72482d5.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_netmap_interface/interfaces/Bro/interface/static/lib/d3v4/package.json
+  detection_source: demo_packages/bro_netmap_interface/interfaces/Bro/interface/static/lib/d3v4/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-13 21:47:44.000000000 Z
+- name: d3-interpolate
+  description: Interpolate numbers
+  package_url: https://www.npmjs.com/d3-interpolate
+  version: 1.1.5
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18261/default_e883f2ab27e3b57d1e2e1d1474b09e7351e11b54.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_netmap_interface/interfaces/Bro/interface/static/lib/d3v4/package.json
+  detection_source: demo_packages/bro_netmap_interface/interfaces/Bro/interface/static/lib/d3v4/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-13 21:47:44.000000000 Z
+- name: d3-scale
+  description: Encodings that map abstract data to visual representation
+  package_url: https://www.npmjs.com/d3-scale
+  version: 1.0.6
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16978/default_7a9e63a9526bf5da91e7a6f9f792b13e3543a875.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_netmap_interface/interfaces/Bro/interface/static/lib/d3v4/package.json
+  detection_source: demo_packages/bro_netmap_interface/interfaces/Bro/interface/static/lib/d3v4/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-13 21:47:44.000000000 Z
+- name: d3-selection
+  description: 'Data-driven DOM manipulation: select elements and join them to data'
+  package_url: https://www.npmjs.com/d3-selection
+  version: 1.1.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17187/default_fbe883dfc6d978f82179fa11bdf634af1b6751fa.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_netmap_interface/interfaces/Bro/interface/static/lib/d3v4/package.json
+  detection_source: demo_packages/bro_netmap_interface/interfaces/Bro/interface/static/lib/d3v4/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-13 21:47:44.000000000 Z
+- name: d3-shape
+  description: Graphical primitives for visualization
+  package_url: https://www.npmjs.com/d3-shape
+  version: 1.2.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17385/default_c1932d441699b98abea6098c6f8f65e2acb4f5ed.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_netmap_interface/interfaces/Bro/interface/static/lib/d3v4/package.json
+  detection_source: demo_packages/bro_netmap_interface/interfaces/Bro/interface/static/lib/d3v4/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-13 21:47:44.000000000 Z
+- name: glob
+  description: A little globber
+  package_url: https://www.npmjs.com/glob
+  version: 3.2.11
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-01 16:04:29.000000000 Z
+- name: grunt-autoprefixer
+  description: Parse CSS and add vendor-prefixed CSS properties using the Can I Use
+    database
+  package_url: https://www.npmjs.com/grunt-autoprefixer
+  version: 3.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17148/default_9746cbb559e39df4afd8298f9a252dff8519e646.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-01 16:04:29.000000000 Z
+- name: grunt-babel
+  description: Use next generation JavaScript, today
+  package_url: https://www.npmjs.com/grunt-babel
+  version: 6.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16633/default_783b9b6c17b863f264c1418b0eb831316f741afd.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/jquery/package.json
+  detection_source: demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/jquery/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-01 16:04:29.000000000 Z
+- name: grunt-cli
+  description: The grunt command line interface
+  package_url: https://www.npmjs.com/grunt-cli
+  version: 1.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16021/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/jquery/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-01 16:04:29.000000000 Z
+- name: grunt-contrib-clean
+  description: Clean files and folders
+  package_url: https://www.npmjs.com/grunt-contrib-clean
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15939/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-01 16:04:29.000000000 Z
+- name: grunt-contrib-compress
+  description: Compress files and folders
+  package_url: https://www.npmjs.com/grunt-contrib-compress
+  version: 1.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16797/default_661bbd7f9556b6c5c0b8be11cd13e1813fc5c977.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-01 16:04:29.000000000 Z
+- name: grunt-contrib-concat
+  description: Concatenate files
+  package_url: https://www.npmjs.com/grunt-contrib-concat
+  version: 1.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16075/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-01 16:04:29.000000000 Z
+- name: grunt-contrib-connect
+  description: Start a connect web server
+  package_url: https://www.npmjs.com/grunt-contrib-connect
+  version: 1.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16236/default_380ae3d73e22c7ca1f42b96479bcd0095dabc0d3.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-01 16:04:29.000000000 Z
+- name: grunt-contrib-copy
+  description: Copy files and folders
+  package_url: https://www.npmjs.com/grunt-contrib-copy
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16056/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-01 16:04:29.000000000 Z
+- name: grunt-contrib-csslint
+  description: Lint CSS files
+  package_url: https://www.npmjs.com/grunt-contrib-csslint
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17982/default_4fd967542aef030b38a14a6ad69d2f385c52808d.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-01 16:04:29.000000000 Z
+- name: grunt-contrib-cssmin
+  description: Minify CSS
+  package_url: https://www.npmjs.com/grunt-contrib-cssmin
+  version: 1.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16324/default_b5c8f3c8e46d368f74a982d06d7f13291fe651ea.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-01 16:04:29.000000000 Z
+- name: grunt-contrib-htmlmin
+  description: Minify HTML
+  package_url: https://www.npmjs.com/grunt-contrib-htmlmin
+  version: 1.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17474/default_e5adc22c59a44962e41dfaec51edeb42c083f2f4.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-01 16:04:29.000000000 Z
+- name: grunt-contrib-jshint
+  description: Validate files with JSHint
+  package_url: https://www.npmjs.com/grunt-contrib-jshint
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15898/default_59a1b5716eefa3750c20936c3d53ff13a6390ee1.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-01 16:04:29.000000000 Z
+- name: grunt-contrib-less
+  description: Compile LESS files to CSS
+  package_url: https://www.npmjs.com/grunt-contrib-less
+  version: 1.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16581/default_536789d2630ed352dc721a1c915ab456b7660201.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-01 16:04:29.000000000 Z
+- name: grunt-contrib-qunit
+  description: Run QUnit unit tests in a headless Chrome instance
+  package_url: https://www.npmjs.com/grunt-contrib-qunit
+  version: 0.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16756/default_6e51a44775c61dcb2888547ad406a2f0cf2c344e.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-01 16:04:29.000000000 Z
+- name: grunt-contrib-uglify
+  description: Minify JavaScript files with UglifyJS
+  package_url: https://www.npmjs.com/grunt-contrib-uglify
+  version: 1.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15954/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-01 16:04:29.000000000 Z
+- name: grunt-contrib-watch
+  description: Run predefined tasks whenever watched file patterns are added
+  package_url: https://www.npmjs.com/grunt-contrib-watch
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15932/default_4dc9671df0093fd7061f6455afdf054e6cc9dacb.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-01 16:04:29.000000000 Z
+- name: grunt-eslint
+  description: Validate files with ESLint
+  package_url: https://www.npmjs.com/grunt-eslint
+  version: 19.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16384/default_9ae0e75ed749aca83d89f7e1ccb309be2bfc610e.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/jquery/package.json
+  detection_source: demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/jquery/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-01 16:04:29.000000000 Z
+- name: grunt-exec
+  description: Grunt task for executing shell commands
+  package_url: https://www.npmjs.com/grunt-exec
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16754/default_6dc099b12d47e378ae121fb53c336fe5d8f0ffc8.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-01 16:04:29.000000000 Z
+- name: grunt-jscs
+  description: Grunt task for checking JavaScript Code Style with jscs
+  package_url: https://www.npmjs.com/grunt-jscs
+  version: 3.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16510/default_4e3259350c525d1d859fa80a938000081d7c9db8.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-01 16:04:29.000000000 Z
+- name: grunt-jsonlint
+  description: Validate JSON files from grunt
+  package_url: https://www.npmjs.com/grunt-jsonlint
+  version: 1.0.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17749/default_8cfeb169319d5cc646c1e13f8a10e7d7e7430d7c.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/jquery/package.json
+  detection_source: demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/jquery/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-01 16:04:29.000000000 Z
+- name: grunt-newer
+  description: Run Grunt tasks with only those source files modified since the last
+    successful run
+  package_url: https://www.npmjs.com/grunt-newer
+  version: 1.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17008/default_d17bbf7e4f3b102e29ff09c01b8165e7ba600319.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/jquery/package.json
+  detection_source: demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/jquery/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-01 16:04:29.000000000 Z
+- name: grunt-saucelabs
+  description: Grunt task running tests using Sauce Labs
+  package_url: https://www.npmjs.com/grunt-saucelabs
+  version: 9.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17562/default_3c6aa8b4297562bfc2a090966a5bc0fad1d0b678.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-01 16:04:29.000000000 Z
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  version: 0.11.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/jquery/package.json
+  detection_source: demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/jquery/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-01 16:04:29.000000000 Z
+- name: load-grunt-tasks
+  description: Load multiple grunt tasks using globbing patterns
+  package_url: https://www.npmjs.com/load-grunt-tasks
+  version: 3.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16062/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-01 16:04:29.000000000 Z
+- name: markdown-it
+  description: Markdown-it - modern pluggable markdown parser
+  package_url: https://www.npmjs.com/markdown-it
+  version: 7.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16277/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-01 16:04:29.000000000 Z
+  vulnerabilities:
+  - name: Uncontrolled Resource Consumption in markdown-it
+    cve_id: CVE-2022-21670
+    cve_url: https://github.com/advisories/GHSA-6vfc-qv3f-vr6c
+    detected_date: Jan 13
+    severity: moderate
+    first_patched: 12.3.2
+- name: promises-aplus-tests
+  description: Compliance test suite for Promises/A+
+  package_url: https://www.npmjs.com/promises-aplus-tests
+  version: 2.1.2
+  license: WTFPL
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18159/default_63cbe387694d6d77dde61448de98c6bd2a9b18de.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/jquery/package.json
+  detection_source: demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/jquery/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-01 16:04:29.000000000 Z
+- name: qunitjs
+  description: An easy-to-use JavaScript Unit Testing framework
+  package_url: https://www.npmjs.com/qunitjs
+  version: 1.23.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16684/default_e3c0987b80983280e46e6e1723fcfcff50fa4824.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/jquery/package.json
+  detection_source: demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/jquery/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-01 16:04:29.000000000 Z
+- name: rimraf
+  description: A deep deletion module for node
+  package_url: https://www.npmjs.com/rimraf
+  version: 2.5.3
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: demo_packages/bro_netmap_interface/interfaces/Bro/interface/static/lib/d3v4/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-13 21:47:44.000000000 Z
+- name: rollup-plugin-node-resolve
+  description: Bundle third-party dependencies in node_modules
+  package_url: https://www.npmjs.com/rollup-plugin-node-resolve
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15859/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_netmap_interface/interfaces/Bro/interface/static/lib/d3v4/package.json
+  detection_source: demo_packages/bro_netmap_interface/interfaces/Bro/interface/static/lib/d3v4/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-13 21:47:44.000000000 Z
+- name: shelljs
+  description: Portable Unix shell commands for Node.js
+  package_url: https://www.npmjs.com/shelljs
+  version: 0.3.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15897/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-01 16:04:29.000000000 Z
+  vulnerabilities:
+  - name: Improper Privilege Management in shelljs
+    cve_id: CVE-2022-0144
+    cve_url: https://github.com/advisories/GHSA-4rq4-32rv-6wp6
+    detected_date: Jan 22
+    severity: high
+    first_patched: 0.8.5
+  - name: Improper Privilege Management in shelljs
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-64g7-mvw6-v9qj
+    detected_date: Jan 15
+    severity: moderate
+    first_patched: 0.8.5
+- name: shx
+  description: Portable Shell Commands for Node
+  package_url: https://www.npmjs.com/shx
+  version: 0.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16496/default_55f3303d620c93eecbee69c43373d484f2be492f.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-01 16:04:29.000000000 Z
+- name: solc
+  description: Solidity compiler
+  package_url: https://www.npmjs.com/solc
+  version: 0.4.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17248/default_8da30b412bf0dbb63f862bee0dfab0a32df2fb69.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/EthereumBlockchain/package.json
+  detection_source: EthereumBlockchain/package.json
+  last_updated_by: iadgovuser11
+  last_updated_on: 2017-05-17 10:19:29.000000000 Z
+- name: strip-json-comments
+  description: Strip comments from JSON
+  package_url: https://www.npmjs.com/strip-json-comments
+  version: 1.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16973/default_caea01ce44a5fd1bb200d8fc0f8f2a1695b4e569.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/jquery/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-01 16:04:29.000000000 Z
+- name: tape
+  description: Tap-producing test harness for node and browsers
+  package_url: https://www.npmjs.com/tape
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15856/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_netmap_interface/interfaces/Bro/interface/static/lib/d3v4/package.json
+  detection_source: demo_packages/bro_netmap_interface/interfaces/Bro/interface/static/lib/d3v4/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-13 21:47:44.000000000 Z
+- name: time-grunt
+  description: Display the elapsed execution time of grunt tasks
+  package_url: https://www.npmjs.com/time-grunt
+  version: 1.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16275/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-01 16:04:29.000000000 Z
+- name: uglify-js
+  description: JavaScript parser
+  package_url: https://www.npmjs.com/uglify-js
+  version: 2.6.4
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15900/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/demo_packages/bro_interface_demo/interfaces/Bro/interface/static/lib/bootstrap/grunt/npm-shrinkwrap.json
+  detection_source: demo_packages/bro_netmap_interface/interfaces/Bro/interface/static/lib/d3v4/package.json
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-13 21:47:44.000000000 Z
+- name: web3
+  description: Ethereum JavaScript API
+  package_url: https://www.npmjs.com/web3
+  version: 0.19.0
+  license: LGPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16369/default_17385ab3aa01d4c295c08d4a9736140df691c5e9.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/EthereumBlockchain/package.json
+  detection_source: EthereumBlockchain/package.json
+  last_updated_by: iadgovuser11
+  last_updated_on: 2017-05-17 10:19:29.000000000 Z
+  vulnerabilities:
+  - name: Insecure Credential Storage in web3
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-27v7-qhfv-rqq8
+    detected_date: Aug 22
+    severity: low
+    first_patched: 
+- name: Naked
+  description: A command line application framework
+  package_url: https://pypi.org/project/Naked
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/CyberChef/requirements.txt
+  detection_source: CyberChef/requirements.txt
+  last_updated_by: iadgovuser11
+  last_updated_on: 2017-12-12 11:19:03.000000000 Z
+- name: chardet
+  description: Universal encoding detector for Python 2 and 3
+  package_url: https://pypi.org/project/chardet
+  license: LGPL-2.1
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19856/default_4a8a8fdc10130068bf295812b98e9b72fb42fe70.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/PowerShell/requirements.txt
+  detection_source: PowerShell/requirements.txt
+  last_updated_by: xomm
+  last_updated_on: 2018-03-08 18:21:38.000000000 Z
+- name: elasticsearch-dsl
+  description: Python client for Elasticsearch
+  package_url: https://pypi.org/project/elasticsearch-dsl
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20191/default_3c305c494fb38a63681703a1e2253e6fc9546c86.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/Elasticsearch/requirements.txt
+  detection_source: Elasticsearch/requirements.txt
+  last_updated_by: JustinTervala
+  last_updated_on: 2018-04-23 15:53:10.000000000 Z
+- name: ipaddress
+  description: IPv4/IPv6 manipulation library
+  package_url: https://pypi.org/project/ipaddress
+  license: Python-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19942/default_aacb529ceff756b62765790d8d6787a041d514ff.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/Bro/requirements.txt
+  detection_source: Bro/requirements.txt
+  last_updated_by: Joseph Moyer
+  last_updated_on: 2019-01-22 19:05:48.000000000 Z
+- name: lxml
+  description: Powerful and Pythonic XML processing library combining libxml2/libxslt
+    with the ElementTree API
+  package_url: https://pypi.org/project/lxml
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19835/default_85689b353a3a9409328e253ea28d859d29151e0c.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/OpenVAS/requirements.txt
+  detection_source: OpenVAS/requirements.txt
+  last_updated_by: Andrew Pham
+  last_updated_on: 2017-11-30 04:28:12.000000000 Z
+- name: networkx
+  description: Python package for creating and manipulating graphs and networks
+  package_url: https://pypi.org/project/networkx
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19877/default_8902c10687fbcd6273bdbe119fff40fa1180763f.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/Bro/requirements.txt
+  detection_source: Bro/requirements.txt
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-14 12:49:02.000000000 Z
+- name: pandas
+  description: Powerful data structures for data analysis
+  package_url: https://pypi.org/project/pandas
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19837/default_85689b353a3a9409328e253ea28d859d29151e0c.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/Bro/requirements.txt
+  detection_source: Bro/requirements.txt
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-14 12:49:02.000000000 Z
+- name: paramiko
+  description: SSH2 protocol library
+  package_url: https://pypi.org/project/paramiko
+  license: LGPL-2.1
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19896/default_4343f8bba4f6051641ffca8b4fbe9b099402c84d.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/LinuxShell/requirements.txt
+  detection_source: LinuxShell/requirements.txt
+  last_updated_by: adpham95
+  last_updated_on: 2018-01-10 19:57:48.000000000 Z
+- name: psutil
+  description: Cross-platform lib for process and system monitoring in Python
+  package_url: https://pypi.org/project/psutil
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19851/default_ac77a75c05474acf9389d56b1f5cc8241af4c384.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/CyberAnalytic/requirements.txt
+  detection_source: CyberAnalytic/requirements.txt
+  last_updated_by: iadgovuser11
+  last_updated_on: 2017-07-12 16:03:33.000000000 Z
+- name: pytz
+  description: World timezone definitions, modern and historical
+  package_url: https://pypi.org/project/pytz
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19841/default_bb711fa267b2329ed689711a5adb7d9e74610b20.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/OpenVAS/requirements.txt
+  detection_source: OpenVAS/requirements.txt
+  last_updated_by: adpham95
+  last_updated_on: 2017-11-28 16:03:17.000000000 Z
+- name: pywinrm
+  description: Python library for Windows Remote Management
+  package_url: https://pypi.org/project/pywinrm
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/PowerShell/requirements.txt
+  detection_source: PowerShell/requirements.txt
+  last_updated_by: xomm
+  last_updated_on: 2018-03-08 18:21:38.000000000 Z
+- name: requests
+  description: Python HTTP for Humans
+  package_url: https://pypi.org/project/requests
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19826/default_d7c684bf2673f008a9f02ac93901229297a22d7e.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/DailyQuote/requirements.txt
+  detection_source: DailyQuote/requirements.txt
+  last_updated_by: adpham95
+  last_updated_on: 2017-12-01 13:14:36.000000000 Z
+- name: scapy
+  description: 'Scapy: interactive packet manipulation tool'
+  package_url: https://pypi.org/project/scapy
+  license: GPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20279/default_267c21fe20acb6a3a56ea60f8b271e1ab445049d.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/Pcap/requirements.txt
+  detection_source: Pcap/requirements.txt
+  last_updated_by: Justin Tervala
+  last_updated_on: 2017-09-20 14:20:24.000000000 Z
+- name: six
+  description: Python 2 and 3 compatibility utilities
+  package_url: https://pypi.org/project/six
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19827/default_74a61b43bdb9fc0cba2978316b9976f43545029b.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/Bro/requirements.txt
+  detection_source: Bro/requirements.txt
+  last_updated_by: adpham95
+  last_updated_on: 2018-02-14 12:49:02.000000000 Z
+- name: splunk-sdk
+  description: The Splunk Software Development Kit for Python
+  package_url: https://pypi.org/project/splunk-sdk
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/Splunk/requirements.txt
+  detection_source: Splunk/requirements.txt
+  last_updated_by: iadgovuser11
+  last_updated_on: 2017-07-12 16:03:33.000000000 Z
+- name: tzlocal
+  description: Tzinfo object for the local timezone
+  package_url: https://pypi.org/project/tzlocal
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19922/default_c8be5290cb8d8a8b578535a2c6475d1057ff4ea4.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/OpenVAS/requirements.txt
+  detection_source: OpenVAS/requirements.txt
+  last_updated_by: Andrew Pham
+  last_updated_on: 2017-11-30 04:28:12.000000000 Z
+- name: win-inet-pton
+  description: Native inet_pton and inet_ntop implementation for Python on Windows
+  package_url: https://pypi.org/project/win-inet-pton
+  license: PDDL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/2lambda123/WALKOFF-Apps/blob/master/SmartPlug/requirements.txt
+  detection_source: SmartPlug/requirements.txt
+  last_updated_by: iadgovuser11
+  last_updated_on: 2017-07-12 16:03:33.000000000 Z
